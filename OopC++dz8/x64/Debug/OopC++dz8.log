@@ -1,0 +1,8 @@
+﻿  OopC++dz8.cpp
+D:\funeral\Coding\проэкты Visual Studio\OopC++dz8\OopC++dz8\String.h(24,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\funeral\Coding\проэкты Visual Studio\OopC++dz8\OopC++dz8\String.h(49,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Stringcpp.cpp
+D:\funeral\Coding\проэкты Visual Studio\OopC++dz8\OopC++dz8\String.h(24,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\funeral\Coding\проэкты Visual Studio\OopC++dz8\OopC++dz8\String.h(49,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  OopC++dz8.vcxproj -> D:\funeral\Coding\проэкты Visual Studio\OopC++dz8\x64\Debug\OopC++dz8.exe
