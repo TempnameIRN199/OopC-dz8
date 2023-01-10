@@ -17,4 +17,5 @@ int main()
 	s3.output();
 	s3 = '!' + s2;
 	s3.output();
+	
 }
